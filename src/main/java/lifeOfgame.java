@@ -5,7 +5,8 @@ import java.util.Arrays;
 
 public class lifeOfgame {
 	public static void main(String[] args) {
-		int row = 31;
+		int row = 0;
+		row = 31;
 		int col = 80;
 		int[][] arr = new int[31][80];
 		int[][] counter = new int[33][82];
